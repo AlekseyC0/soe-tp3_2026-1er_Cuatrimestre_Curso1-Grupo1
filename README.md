@@ -1,2 +1,7 @@
-# soe-tp3_2026-1er_Cuatrimestre_Curso1-Grupo1
-# FIUBA - Electrónica - Sistemas Operativos Embebidos - Trabajo Práctico N°: 3 – Sincronización de Tareas de FreeRTOS
+# FIUBA - Electrónica - Sistemas Operativos Embebidos
+## Trabajo Práctico N°: 3 - Sincronización de Tareas de FreeRTOS
+### Año-Cuatrimestre - Curso-Grupo
+### Responsable de la entrega:
+| Padrón | Apellidos, Nombres | Fecha | Deadline |
+| :----- | :--------------------- | :------: | :-------: |
+| 110929 | Chahuillco, Aleksey | | Semana 08 |
