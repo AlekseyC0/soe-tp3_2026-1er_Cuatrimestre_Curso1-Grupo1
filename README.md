@@ -4,4 +4,5 @@
 ### Responsable de la entrega:
 | Padrón | Apellidos, Nombres | Fecha | Deadline |
 | :----- | :--------------------- | :------: | :-------: |
-| 110929 | Chahuillco, Aleksey | | Semana 08 |
+| 110929 | Chahuillco, Aleksey | 27/05/26 | Semana 08 |
+
