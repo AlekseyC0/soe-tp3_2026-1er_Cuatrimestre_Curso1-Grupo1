@@ -1,0 +1,10 @@
+21:08:00 **** Incremental Build of configuration Debug for project soe-tp3_02-application ****
+make -j7 all 
+arm-none-eabi-size  soe-tp3_02-application.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25468	    136	   7536	  33140	   8174	soe-tp3_02-application.elf
+Finished building: default.size.stdout
+ 
+
+21:08:00 Build Finished. 0 errors, 0 warnings. (took 226ms)
+

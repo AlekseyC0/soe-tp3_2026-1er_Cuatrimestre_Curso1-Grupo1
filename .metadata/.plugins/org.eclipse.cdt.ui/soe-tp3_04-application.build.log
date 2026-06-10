@@ -1,0 +1,17 @@
+20:27:10 **** Incremental Build of configuration Debug for project soe-tp3_04-application ****
+make -j7 all 
+arm-none-eabi-gcc "../app/src/task_test.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3 -I../app/inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"app/src/task_test.d" -MT"app/src/task_test.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "app/src/task_test.o"
+arm-none-eabi-gcc -o "soe-tp3_04-application.elf" @"objects.list"  -lrdimon -mcpu=cortex-m3 -T"/Users/alekseychahuillco/Documents/FIUBA/1er_Cuatri_2026/Sistemas_Operativos_Embebidos/TP3/soe-tp3_04-application/STM32F103RBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="soe-tp3_04-application.map" -Wl,--gc-sections -static -specs=rdimon.specs --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: soe-tp3_04-application.elf
+ 
+arm-none-eabi-size  soe-tp3_04-application.elf 
+arm-none-eabi-objdump -h -S soe-tp3_04-application.elf  > "soe-tp3_04-application.list"
+   text	   data	    bss	    dec	    hex	filename
+  29216	    140	   7588	  36944	   9050	soe-tp3_04-application.elf
+Finished building: default.size.stdout
+ 
+Finished building: soe-tp3_04-application.list
+ 
+
+20:27:11 Build Finished. 0 errors, 0 warnings. (took 972ms)
+

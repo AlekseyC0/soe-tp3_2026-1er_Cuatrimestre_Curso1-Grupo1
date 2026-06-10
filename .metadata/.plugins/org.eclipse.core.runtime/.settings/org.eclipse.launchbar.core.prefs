@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:soe-tp3_02-application Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:soe-tp3_01-application Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:soe-tp3_01-application,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:soe-tp3_03-application,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:soe-tp3_04-application
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:soe-tp3_01-application\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:soe-tp3_01-application\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:soe-tp3_01-application/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:soe-tp3_01-application/activeLaunchTarget=null\:---
