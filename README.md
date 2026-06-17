@@ -6,4 +6,5 @@
 | :----- | :--------------------- | :------: | :-------: |
 | 110929 | Chahuillco, Aleksey | 27/05/26 | Semana 08 |
 | 110722 | Martín, Andrés Mauricio | 27/05/26 | Semana 08 |
+| 106453 | Baldoni, Sofía | 27/05/2026 | Semana 08 |
 
